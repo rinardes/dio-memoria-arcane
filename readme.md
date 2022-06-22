@@ -4,7 +4,7 @@
 
 ## Sobre
 
-Desafio de projeto DIO: jogo da memória.
+Desafio de projeto DIO: jogo da memória. Como o tema era livre, fiz baseado na série Arcane, que para mim é uma verdadeira obra de arte.
 
 ## Decisões
 
